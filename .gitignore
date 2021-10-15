@@ -1,0 +1,7 @@
+# Project exclude paths
+.gradle
+.idea
+application-oauth.properties
+application-postgres.properties
+application-h2.properties
+application-message.properties
